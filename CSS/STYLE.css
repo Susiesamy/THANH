@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  box-sizing: border-box
+}
+body {
+  font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+  font-size: 16px;
+  color: #666666;
+  margin: 0px
+}
+.banner {
+  width: 100%;
+  min-height: 30px
+}
+.img-100 {
+  width: 100%;
+  height: auto
+}
+.menu {
+  width: 100%;
+  height: 50px;
+  background-color: #2243B6;
+  line-height: 50px;
+  text-align: center
+}
+.menu a {
+  color: #FFFFFF;
+  padding: 10px 25px;
+  text-decoration: none;
+  border-radius: 25px
+}
+.menu a:hover {
+  background-color: #FFFFFF;
+  color: #D04A07;
+  font-weight: bold;
+  transition: 0.8s
+}
+.container {
+  width: 100%;
+  margin: 0 auto
+}
+.tex-center {
+  text-align: center;
+  color: #D04A07;
+  font-size: 40px
+}
+.w-25 {
+  width: 25%;
+  padding: 15px;
+  float: left
+}
+.clearfix {
+  clear: both
+}
+.vien {
+  width: 100%;
+  min-height: 400px;
+  background-color: #F7EEE4;
+  color: #2243B6;
+  border-radius: 50px 15px 5px 5px;
+  border: 1px solid #2243B6;
+  text-align: center
+}
+.text-gia {
+  color: #D04A07
+}
+.bo-goc {
+  border-radius: 50px 15px 0px 0px
+}
+.banner-1 {
+  width: 100%;
+  min-height: 5px
+}
+.tex-center {
+  text-align: center
+}
+.text-xanh {
+  color: #2243B6
+}
+.w-50 {
+  width: 50%;
+  padding: 15px;
+  float: left
+}
+.from-control {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 300px;
+  margin-top: 10px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #2243B6;
+  color: #FFFFFF;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 10px
+}
+.btn:hover {
+  background-color: #D04A07;
+  color: #FFFFFF
+}
+.w-40 {
+  width: 40%;
+  padding: 15px;
+  float: right
+}
+.from-control {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 300px;
+  margin-top: 10px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #2243B6;
+  color: #FFFFFF;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 10px
+}
+.btn:hover {
+  background-color: #D04A07;
+  color: #FFFFFF
+}
+.bottom-bar {
+  width: 100%;
+  height: 50px;
+  background-color: #2243B6;
+  color: #FFFFFF;
+  line-height: 50px;
+  text-align: center
+}
